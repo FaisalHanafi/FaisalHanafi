@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **FaisalHanafi/FaisalHanafi.github.io**
 
-- 📄 Know about my experiences **FaisalHanafi/FaisalHanafi.github.io**
+- 📄 Know about my experiences **https://www.linkedin.com/in/faisalhanafidsa0105/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
