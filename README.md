@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalhanafi&label=Profile%20views&color=0e75b6&style=flat" alt="faisalhanafi" /> </p>
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working as a Data Analyst for AEM Enersol
 
 - 📫 How to reach me **Gmail, Linkedin**
 
-- 🌱 I’m currently learning **React, Flask**
+- 🌱 I’m currently relearning **Python** while trying mastering **R**
 
-- 💬 Ask me about **Local Politic**
+- 💬 Ask me about **Anything**
 
 - ⚡ Fun fact [I think I know a little bit about my works](I think I know a little bit about my works)
 
