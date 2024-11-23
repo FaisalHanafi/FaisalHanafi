@@ -20,7 +20,9 @@
 <a href="https://linkedin.com/in/faisal hanafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal hanafi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/faisal hanafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="faisal hanafi" height="30" width="40" /></a>
 <a href="https://kaggle.com/faisal hanafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="faisal hanafi" height="30" width="40" /></a>
-<a href="https://www.credly.com/users/faisal-hanafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/credly.svg" alt="faisal hanafi" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/faisal-hanafi" target="_blank">
+  <img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10in.png?width=600&name=Credly_Logo_Orange_10in.png" alt="Credly Logo" height="30">
+</a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalhanafi&show_icons=true&locale=en" alt="faisalhanafi" /></p>
